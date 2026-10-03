@@ -2523,6 +2523,7 @@
     <string name="devicetype_solarflow">SolarFlow</string>
     <string name="devicetype_braun_bpw4500" translatable="false">Braun iCheck 7 BPW4500</string>
     <string name="devicetype_ls2_4x">LS2-4X</string>
+    <string name="devicetype_misfits">misfits</string>
     <!-- Menus on the smart device -->
     <string name="menuitem_nothing">Nothing</string>
     <string name="menuitem_status">Status</string>
