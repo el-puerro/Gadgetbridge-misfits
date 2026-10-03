@@ -510,6 +510,7 @@ import nodomain.freeyourgadget.gadgetbridge.devices.oppo.OppoEncoBuds2Coordinato
 import nodomain.freeyourgadget.gadgetbridge.devices.overmax.OVTouch26Coordinator;
 import nodomain.freeyourgadget.gadgetbridge.devices.pebble.PebbleCoordinator;
 import nodomain.freeyourgadget.gadgetbridge.devices.pinetime.PineTimeJFCoordinator;
+import nodomain.freeyourgadget.gadgetbridge.devices.misfits.MisfitsCoordinator;
 import nodomain.freeyourgadget.gadgetbridge.devices.pixel.PixelBudsACoordinator;
 import nodomain.freeyourgadget.gadgetbridge.devices.polar.PolarH10DeviceCoordinator;
 import nodomain.freeyourgadget.gadgetbridge.devices.polar.PolarH9DeviceCoordinator;
@@ -803,6 +804,7 @@ public enum DeviceType {
     FOSSILQHYBRID(QHybridCoordinator.class),
     TLW64(TLW64Coordinator.class),
     PINETIME_JF(PineTimeJFCoordinator.class),
+    MISFITS(MisfitsCoordinator.class),
     POLARH9(PolarH9DeviceCoordinator.class),
     POLARH10(PolarH10DeviceCoordinator.class),
     MIJIA_LYWSD02(MijiaLywsd02Coordinator.class),
